@@ -38,13 +38,13 @@ The notebook divided into sections as follow:
 # Libraries
 
 This project is developed in Python 3.7.6. You will need to install some libraries in order to run the code. Libraries and respective version are:
-	•	jupyter 4.6.1
-	•	numpy 1.19.5
-	•	pandas 1.1.5
-	•	matplotlib 3.3.4
-	•	scikit-learn 0.24.1
-	•	lightgbm 3.3.1
-	•	Xgboost 1.5.1
+- jupyter 4.6.1
+- numpy 1.19.5
+- pandas 1.1.5
+- matplotlib 3.3.4
+- scikit-learn 0.24.1
+- lightgbm 3.3.1
+- Xgboost 1.5.1
 
 
 # Author
