@@ -26,19 +26,8 @@ This repository contains the following:
 The notebook divided into sections as follow:
 1. Data Loading
 2. Exploratory Data Analysis
-2.1 Portfolio Overview
-2.2 Profile Overview
-2.3 Transcript Overview
-2.4 Exploring Portfolio, Profile, and Transcript
 3. Data Cleaning
-3.1 Porfolio
-3.2 Profile
-3.3 Transcript
 4. Feature Engineering and Data Transformation
-4.1 Porfolio
-4.2 Profile
-4.3 Transcript
-4.4 Combined Dataset
 5. Train-Test Data
 6. Benchmark Model
 7. Proposed Models
